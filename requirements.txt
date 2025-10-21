@@ -129,7 +129,7 @@ pywin32=311=py313h40c08fc_1
 pyzmq=27.1.0=py312hbb5da91_0
 qhull=2020.2=hc790b64_5
 qt6-main=6.9.3=ha0de62e_0
-scikit-learn=1.7.2=py313he28f1d7_0
+scikit-learn=1.7.2=py313h7f7e138_0
 scipy=1.16.2=py313h62a08ca_0
 seaborn=0.13.2=py313haa95532_3
 setuptools=80.9.0=pyhff2d567_0
@@ -147,9 +147,10 @@ typing-extensions=4.15.0=h396c80c_0
 typing_extensions=4.15.0=pyhcf101f3_0
 tzdata=2025b=h78e105d_0
 ucrt=10.0.26100.0=h57928b3_0
-vc=14.3=h41ae7f8_31
+vc=14.42=haa95532_5
 vc14_runtime=14.44.35208=h818238b_31
 vcomp14=14.44.35208=h818238b_31
+vs2015_runtime=14.44.35208=h38c0c73_31
 wcwidth=0.2.14=pyhd8ed1ab_0
 xorg-libxau=1.0.12=h0e40799_0
 xorg-libxdmcp=1.1.5=h0e40799_0
